@@ -1,0 +1,5 @@
+{
+  "name": "Template Engines",
+  "description": "Render dynamic HTML output",
+  "packages": ["ejs", "eta", "handlebars", "mustache", "nunjucks", "pug"]
+}

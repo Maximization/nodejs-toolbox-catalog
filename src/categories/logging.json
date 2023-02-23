@@ -1,0 +1,5 @@
+{
+  "name": "Logging",
+  "description": "Log events to help you debug problems in your application",
+  "packages": ["bunyan", "log4js", "loglevel", "morgan", "pino", "winston"]
+}

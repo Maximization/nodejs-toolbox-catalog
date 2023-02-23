@@ -1,0 +1,14 @@
+{
+  "name": "Full-stack Frameworks",
+  "description": "Quickly develop full-stack applications with these batteries-included frameworks",
+  "packages": [
+    "@adonisjs/core",
+    "@feathersjs/feathers",
+    "@loopback/core",
+    "@nestjs/core",
+    "@redwoodjs/core",
+    "egg",
+    "meteor",
+    "sails"
+  ]
+}

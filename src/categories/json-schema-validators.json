@@ -1,0 +1,13 @@
+{
+  "name": "JSON Schema Validators",
+  "description": "Use JSON Schema language to validate user input and anything else",
+  "packages": [
+    "@cfworker/json-schema",
+    "@exodus/schemasafe",
+    "ajv",
+    "djv",
+    "is-my-json-valid",
+    "json-schema-library",
+    "jsonschema"
+  ]
+}

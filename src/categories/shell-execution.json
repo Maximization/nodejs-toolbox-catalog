@@ -1,0 +1,5 @@
+{
+  "name": "Shell Execution",
+  "description": "Execute shell commands from Node.js",
+  "packages": ["execa", "shelljs", "zx"]
+}

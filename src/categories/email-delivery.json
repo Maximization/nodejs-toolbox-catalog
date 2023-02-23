@@ -1,0 +1,5 @@
+{
+  "name": "Email Delivery",
+  "description": "Send emails with ease from Node.js",
+  "packages": ["email-templates", "emailjs", "nodemailer", "sendmail"]
+}

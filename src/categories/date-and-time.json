@@ -1,0 +1,5 @@
+{
+  "name": "Date & Time",
+  "description": "A more intuitive approach to dates and times than the standard library",
+  "packages": ["date-fns", "dayjs", "luxon", "moment"]
+}

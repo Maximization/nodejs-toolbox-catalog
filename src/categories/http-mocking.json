@@ -1,0 +1,5 @@
+{
+  "name": "HTTP Mocking",
+  "description": "Mock network requests and test modules in isolation",
+  "packages": ["axios-mock-adapter", "nock", "superagent"]
+}

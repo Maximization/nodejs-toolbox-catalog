@@ -1,0 +1,5 @@
+{
+  "name": "Package Publishing",
+  "description": "Automate your package release workflow",
+  "packages": ["np", "release-it", "semantic-release", "standard-version"]
+}

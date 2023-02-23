@@ -1,0 +1,5 @@
+{
+  "name": "Scheduling",
+  "description": "Run tasks on a schedule",
+  "packages": ["cron", "node-cron", "node-schedule", "toad-scheduler"]
+}

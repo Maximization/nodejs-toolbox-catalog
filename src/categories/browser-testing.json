@@ -1,0 +1,13 @@
+{
+  "name": "Browser Testing",
+  "description": "Write automated tests that run in real-world browser environments",
+  "packages": [
+    "@playwright/test",
+    "cypress",
+    "nightmare",
+    "nightwatch",
+    "puppeteer",
+    "selenium-webdriver",
+    "webdriverio"
+  ]
+}

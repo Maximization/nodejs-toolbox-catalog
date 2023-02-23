@@ -1,0 +1,5 @@
+{
+  "name": "Package to Executable",
+  "description": "Package a Node.js application into a single executable file",
+  "packages": ["@vercel/ncc", "nexe", "pkg"]
+}

@@ -1,0 +1,5 @@
+{
+  "name": "Query Builders",
+  "description": "Write JavaScript to build SQL queries",
+  "packages": ["knex", "kysely"]
+}

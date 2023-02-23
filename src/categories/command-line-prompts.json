@@ -1,0 +1,5 @@
+{
+  "name": "Command Line Prompts",
+  "description": "Create interactive command line tools by asking for user input",
+  "packages": ["enquirer", "inquirer", "prompts"]
+}

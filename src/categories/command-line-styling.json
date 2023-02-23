@@ -1,0 +1,12 @@
+{
+  "name": "Command Line Styling",
+  "description": "Create beautiful command line tools",
+  "packages": [
+    "chalk",
+    "cli-color",
+    "colors",
+    "ink",
+    "kleur",
+    "terminal-in-react"
+  ]
+}

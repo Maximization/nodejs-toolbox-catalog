@@ -1,0 +1,33 @@
+{
+  "name": "nodejs-toolbox-catalog",
+  "version": "1.0.0",
+  "description": "Catalog of categories and packages for Node.js Toolbox",
+  "private": false,
+  "type": "module",
+  "author": "Maxim Orlov <hello@maximorlov.com> (https://github.com/Maximization)",
+  "license": "MIT",
+  "main": "index.js",
+  "engines": {
+    "node": "18.x"
+  },
+  "scripts": {
+    "lint:fix": "eslint --fix . && prettier --write .",
+    "lint": "eslint . && prettier --check .",
+    "test": "NODE_OPTIONS=--experimental-vm-modules jest",
+    "publish": "np"
+  },
+  "dependencies": {
+    "debug": "4.3.4"
+  },
+  "devDependencies": {
+    "ajv": "8.12.0",
+    "all-the-package-names": "2.0.622",
+    "eslint": "8.34.0",
+    "eslint-config-prettier": "8.6.0",
+    "eslint-plugin-jest": "27.2.1",
+    "jest": "29.4.3",
+    "np": "7.6.3",
+    "prettier": "2.8.4",
+    "vitest": "0.28.5"
+  }
+}

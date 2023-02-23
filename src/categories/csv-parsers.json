@@ -1,0 +1,5 @@
+{
+  "name": "CSV Parsers",
+  "description": "Work with CSV files from Node.js",
+  "packages": ["csv-parse", "csv-parser", "csvtojson", "fast-csv"]
+}
