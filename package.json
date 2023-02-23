@@ -17,8 +17,7 @@
   "scripts": {
     "lint:fix": "eslint --fix . && prettier --write .",
     "lint": "eslint . && prettier --check .",
-    "test": "NODE_OPTIONS=--experimental-vm-modules jest",
-    "publish": "np"
+    "test": "NODE_OPTIONS=--experimental-vm-modules jest"
   },
   "dependencies": {
     "debug": "4.3.4"
