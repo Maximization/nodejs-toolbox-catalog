@@ -15,9 +15,11 @@
     "url": "https://github.com/Maximization/nodejs-toolbox-catalog"
   },
   "scripts": {
-    "lint:fix": "eslint --fix . && prettier --write .",
-    "lint": "eslint . && prettier --check .",
-    "test": "NODE_OPTIONS=--experimental-vm-modules jest"
+    "prettier": "prettier --write .",
+    "test": "npm run test:prettier && npm run test:eslint && npm run test:jest",
+    "test:prettier": "prettier --check .",
+    "test:eslint": "eslint .",
+    "test:jest": "NODE_OPTIONS=--experimental-vm-modules jest"
   },
   "dependencies": {
     "debug": "4.3.4"
