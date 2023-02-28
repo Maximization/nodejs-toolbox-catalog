@@ -1,0 +1,13 @@
+{
+  "name": "Dependency Management",
+  "description": "Review outdated dependencies and update manually or automatically",
+  "packages": [
+    "depcheck",
+    "depngn",
+    "npm-check",
+    "npm-check-updates",
+    "renovate",
+    "updates",
+    "updtr"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Code Complexity",
+  "description": "Analyze and visualize code complexity",
+  "packages": [
+    "code-complexity",
+    "complexity-report",
+    "es6-plato",
+    "plato",
+    "typhonjs-escomplex"
+  ]
+}
