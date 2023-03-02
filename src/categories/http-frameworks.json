@@ -2,10 +2,10 @@
   "name": "HTTP Frameworks",
   "description": "Minimalist frameworks based around HTTP verbs and routes",
   "packages": [
+    "@hapi/hapi",
     "@tinyhttp/app",
     "express",
     "fastify",
-    "hapi",
     "koa",
     "micro",
     "polka",
