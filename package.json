@@ -19,7 +19,8 @@
     "test": "npm run test:prettier && npm run test:eslint && npm run test:jest",
     "test:prettier": "prettier --check .",
     "test:eslint": "eslint .",
-    "test:jest": "NODE_OPTIONS=--experimental-vm-modules jest"
+    "test:jest": "NODE_OPTIONS=--experimental-vm-modules jest",
+    "release": "np"
   },
   "dependencies": {
     "debug": "4.3.4"
