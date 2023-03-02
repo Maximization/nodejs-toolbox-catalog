@@ -1,0 +1,11 @@
+{
+  "name": "File Uploads",
+  "description": "Handle file uploads in Node.js applications",
+  "packages": [
+    "busboy",
+    "express-fileupload",
+    "formidable",
+    "multer",
+    "multiparty"
+  ]
+}
