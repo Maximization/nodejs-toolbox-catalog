@@ -1,0 +1,5 @@
+{
+  "name": "Dependency Visualizers",
+  "description": "Generate a visual graph of internal module dependencies",
+  "packages": ["dependency-cruiser", "madge"]
+}
