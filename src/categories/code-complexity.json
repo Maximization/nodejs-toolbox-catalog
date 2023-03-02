@@ -1,6 +1,6 @@
 {
   "name": "Code Complexity",
-  "description": "Analyze and visualize code complexity",
+  "description": "Analyze and visualize code complexity to help you refactor (legacy) codebases",
   "packages": [
     "code-complexity",
     "complexity-report",
