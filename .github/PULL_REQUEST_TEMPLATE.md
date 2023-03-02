@@ -5,3 +5,4 @@ Thank you for contributing to the Node.js Toolbox catalog! 🙏
 - [ ] To use the _exact_ package name as it appears on NPM (and `npm install <package-name>`)
 - [ ] The packages are listed in alphabetical order
 - [ ] Packages aren't already listed in the same or a different category
+- [ ] Description doesn't have a dot (.) at the end

@@ -36,6 +36,11 @@ describe.each(categories)('Category "$name"', (category) => {
     expect(valid).toBe(true);
   });
 
+  it("has a description that doesn't end with a dot", () => {
+    const endsWithDot = category.description.endsWith(".");
+    expect(endsWithDot).toBe(false);
+  });
+
   it("defines packages in alphabetical order", () => {
     const sorted = Array.from(category.packages).sort();
     expect(category.packages).toStrictEqual(sorted);
