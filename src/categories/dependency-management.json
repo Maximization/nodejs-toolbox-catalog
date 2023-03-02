@@ -1,6 +1,6 @@
 {
   "name": "Dependency Management",
-  "description": "Review outdated dependencies and update manually or automatically",
+  "description": "Review outdated dependencies and manually (or automatically) update them",
   "packages": [
     "depcheck",
     "depngn",
