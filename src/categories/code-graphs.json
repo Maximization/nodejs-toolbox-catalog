@@ -1,0 +1,5 @@
+{
+  "name": "Code Graphs",
+  "description": "Generate a visual graph of your code's internal dependencies",
+  "packages": ["dependency-cruiser", "madge"]
+}
