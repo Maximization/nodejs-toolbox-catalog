@@ -1,5 +1,5 @@
 {
     "name": "File Upload",
     "description": "Upload files using nodejs.",
-    "packages": ["multer", "formidable", "busboy", "express-fileupload", "uploader", "onnect-multiparty"]
+    "packages": ["busboy", "connect-multiparty", "express-fileupload", "formidable", "multer", "uploader"]
 }
