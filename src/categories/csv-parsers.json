@@ -1,5 +1,12 @@
 {
   "name": "CSV Parsers",
   "description": "Work with CSV files from Node.js",
-  "packages": ["csv-parse", "csv-parser", "csvtojson", "fast-csv", "lil-csv", "papaparse"]
+  "packages": [
+    "csv-parse",
+    "csv-parser",
+    "csvtojson",
+    "fast-csv",
+    "lil-csv",
+    "papaparse"
+  ]
 }
