@@ -6,3 +6,4 @@ Thank you for contributing to the Node.js Toolbox catalog! 🙏
 - [ ] The packages are listed in alphabetical order
 - [ ] Packages aren't already listed in the same or a different category
 - [ ] Description doesn't have a dot (.) at the end
+- [ ] To format with Prettier before committing (`npm run prettier`)
