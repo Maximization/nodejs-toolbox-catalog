@@ -6,7 +6,6 @@
     "eslint",
     "hint",
     "jshint",
-    "prettier",
     "rome",
     "stylelint"
   ]
