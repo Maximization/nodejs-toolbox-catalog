@@ -1,6 +1,6 @@
 {
-  "name": "Code Linters",
-  "description": "Find and fix code problems before shipping to production",
+  "name": "Code Linters & Formatters",
+  "description": "Format code and fix problems before shipping to production",
   "packages": [
     "@typescript-eslint/eslint-plugin",
     "eslint",
