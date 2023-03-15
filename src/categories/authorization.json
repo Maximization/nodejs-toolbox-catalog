@@ -1,0 +1,5 @@
+{
+  "name": "Authorization",
+  "description": "Restrict user actions according to various access control patterns",
+  "packages": ["@casl/ability", "accesscontrol", "casbin", "oso"]
+}
