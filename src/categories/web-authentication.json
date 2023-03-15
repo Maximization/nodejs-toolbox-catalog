@@ -1,0 +1,5 @@
+{
+  "name": "Web Authentication",
+  "description": "Handle the authentication of users for web applications",
+  "packages": ["@hapi/bell", "express-session", "grant", "passport"]
+}
