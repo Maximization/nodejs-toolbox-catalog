@@ -1,0 +1,5 @@
+{
+  "name": "JSON Web Token (JWT)",
+  "description": "Sign and verify JWTs in Node.js",
+  "packages": ["jose", "jsonwebtoken", "jwt-decode", "node-jose"]
+}
