@@ -1,0 +1,11 @@
+{
+  "name": "HTML Scrapers",
+  "description": "Easily find and extract the data you need from HTML",
+  "packages": [
+    "@mozilla/readability",
+    "@postlight/parser",
+    "cheerio",
+    "jsdom",
+    "node-html-parser"
+  ]
+}
