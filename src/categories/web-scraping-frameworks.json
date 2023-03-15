@@ -1,0 +1,5 @@
+{
+  "name": "Web Scraping Frameworks",
+  "description": "Crawl and scrape entire websites using Node.js",
+  "packages": ["crawlee", "xray"]
+}
