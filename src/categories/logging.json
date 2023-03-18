@@ -1,5 +1,13 @@
 {
   "name": "Logging",
   "description": "Log events to help you debug problems in your application",
-  "packages": ["bunyan", "log4js", "loglevel", "morgan", "pino", "winston"]
+  "packages": [
+    "bunyan",
+    "log4js",
+    "loglevel",
+    "morgan",
+    "npmlog",
+    "pino",
+    "winston"
+  ]
 }
