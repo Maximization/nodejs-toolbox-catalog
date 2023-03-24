@@ -1,5 +1,13 @@
 {
   "name": "Job Queues",
   "description": "Schedule and process CPU intensive tasks off the main thread",
-  "packages": ["agenda", "bee-queue", "bull", "bullmq", "kue", "node-resque"]
+  "packages": [
+    "agenda",
+    "bee-queue",
+    "bull",
+    "bullmq",
+    "kue",
+    "node-resque",
+    "pg-boss"
+  ]
 }
