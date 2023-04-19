@@ -1,0 +1,5 @@
+{
+  "name": "Build Systems",
+  "description": "Manage codebases containing multiple distinct projects (Monorepos)",
+  "packages": ["bit", "bolt", "lerna", "nx", "oao", "turbo"]
+}
