@@ -1,0 +1,5 @@
+{
+  "name": "MongoDB Clients",
+  "description": "MongoDB clients for Node.js",
+  "packages": ["mongodb", "mongoose"]
+}
