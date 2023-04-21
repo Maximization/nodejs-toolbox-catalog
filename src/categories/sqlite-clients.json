@@ -1,0 +1,5 @@
+{
+  "name": "SQLite Clients",
+  "description": "Node.js drivers for SQLite",
+  "packages": ["better-sqlite3", "sqlite3"]
+}
