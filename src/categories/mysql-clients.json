@@ -1,0 +1,5 @@
+{
+  "name": "MySQL Clients",
+  "description": "Node.js drivers for MySQL",
+  "packages": ["mysql", "mysql2"]
+}
