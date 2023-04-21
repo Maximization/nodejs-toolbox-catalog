@@ -1,0 +1,5 @@
+{
+  "name": "PostgreSQL Clients",
+  "description": "Interact with PostgreSQL databases from Node.js",
+  "packages": ["pg", "pg-promise", "postgres", "slonik"]
+}
