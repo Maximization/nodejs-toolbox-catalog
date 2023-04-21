@@ -1,0 +1,5 @@
+{
+  "name": "Redis Clients",
+  "description": "Redis clients for Node.js",
+  "packages": ["ioredis", "redis"]
+}
