@@ -4,6 +4,7 @@
   "packages": [
     "@adonisjs/core",
     "@feathersjs/feathers",
+    "@foal/core",
     "@loopback/core",
     "@nestjs/core",
     "@redwoodjs/core",
