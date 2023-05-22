@@ -1,5 +1,12 @@
 {
   "name": "Object-relational Mapping (ORM)",
   "description": "Map SQL database tables to JavaScript objects",
-  "packages": ["mikro-orm", "objection", "prisma", "sequelize", "typeorm"]
+  "packages": [
+    "drizzle-orm",
+    "mikro-orm",
+    "objection",
+    "prisma",
+    "sequelize",
+    "typeorm"
+  ]
 }
