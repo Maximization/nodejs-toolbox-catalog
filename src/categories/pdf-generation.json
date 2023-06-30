@@ -1,0 +1,5 @@
+{
+  "name": "PDF Generation",
+  "description": "Generate PDF files with Node.js",
+  "packages": ["@pdfme/generator", "jspdf", "pdf-lib", "pdfkit", "pdfmake"]
+}
