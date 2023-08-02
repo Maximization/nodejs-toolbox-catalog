@@ -5,6 +5,7 @@
     "@hapi/hapi",
     "@tinyhttp/app",
     "express",
+    "faasjs",
     "fastify",
     "koa",
     "micro",
