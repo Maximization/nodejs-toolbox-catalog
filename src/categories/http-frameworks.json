@@ -5,11 +5,11 @@
     "@hapi/hapi",
     "@tinyhttp/app",
     "express",
+    "faasjs",
     "fastify",
     "koa",
     "micro",
     "polka",
-    "restify",
-    "faasjs"
+    "restify"
   ]
 }
