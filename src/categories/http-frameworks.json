@@ -9,6 +9,7 @@
     "koa",
     "micro",
     "polka",
-    "restify"
+    "restify",
+    "faasjs"
   ]
 }
