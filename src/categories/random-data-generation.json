@@ -1,0 +1,11 @@
+{
+  "name": "Random Data Generation",
+  "description": "Generate random data to test your application",
+  "packages": [
+    "@faker-js/faker",
+    "@ngneat/falso",
+    "casual",
+    "chance",
+    "json-schema-faker"
+  ]
+}
