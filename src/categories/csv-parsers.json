@@ -5,6 +5,7 @@
     "csv-parse",
     "csv-parser",
     "csvtojson",
+    "d3-dsv",
     "fast-csv",
     "lil-csv",
     "papaparse"
