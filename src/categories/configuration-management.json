@@ -1,0 +1,5 @@
+{
+  "name": "Configuration Management",
+  "description": "Load environment variables and configure your applications",
+  "packages": ["config", "convict", "dotenv", "nconf", "rc"]
+}
