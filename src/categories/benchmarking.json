@@ -1,0 +1,5 @@
+{
+  "name": "Benchmarking",
+  "description": "Run code benchmarks in Node.js and analyze results",
+  "packages": ["benchmark", "benny", "tinybench"]
+}
