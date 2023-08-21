@@ -22,6 +22,10 @@
     "test:jest": "NODE_OPTIONS=--experimental-vm-modules jest",
     "release": "np"
   },
+  "files": [
+    "index.js",
+    "src/*"
+  ],
   "dependencies": {
     "debug": "4.3.4"
   },
