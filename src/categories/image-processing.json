@@ -1,0 +1,12 @@
+{
+  "name": "Image Processing",
+  "description": "Resize, crop and convert images to various formats",
+  "packages": [
+    "compress-images",
+    "gm",
+    "imagemagick",
+    "imagemin",
+    "jimp",
+    "sharp"
+  ]
+}
