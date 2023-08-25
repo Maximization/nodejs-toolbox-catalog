@@ -1,0 +1,11 @@
+{
+  "name": "QR Code Generation",
+  "description": "Programatically generate QR codes in Node.js",
+  "packages": [
+    "headless-qr",
+    "qr-generator",
+    "qr-image",
+    "qrcode",
+    "qrcode-terminal"
+  ]
+}
