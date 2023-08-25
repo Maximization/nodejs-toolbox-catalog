@@ -3,9 +3,9 @@
   "description": "Programatically generate QR codes in Node.js",
   "packages": [
     "headless-qr",
-    "qr-generator",
     "qr-image",
     "qrcode",
+    "qrcode-generator",
     "qrcode-terminal"
   ]
 }
