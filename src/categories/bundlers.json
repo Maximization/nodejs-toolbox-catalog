@@ -1,5 +1,5 @@
 {
   "name": "Bundlers",
   "description": "Bundle an application's source code into a single file. Mostly used for frotend apps to minimise network requests",
-  "packages": ['brunch', 'esbuild', 'grunt', 'gulp', 'microbundle', 'parcel', 'rollup', 'rome', 'snowpack', 'tsup', 'webpack']
+  "packages": ["brunch", "esbuild", "grunt", "gulp", "microbundle", "parcel", "rollup", "rome", "snowpack", "tsup", "webpack"]
 }
