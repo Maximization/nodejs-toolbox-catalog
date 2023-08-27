@@ -9,7 +9,6 @@
     "microbundle",
     "parcel",
     "rollup",
-    "rome",
     "snowpack",
     "tsup",
     "webpack"
