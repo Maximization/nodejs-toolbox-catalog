@@ -1,5 +1,5 @@
 {
   "name": "HTTP Mocking",
   "description": "Mock network requests and test modules in isolation",
-  "packages": ["axios-mock-adapter", "msw", "nock", "superagent"]
+  "packages": ["axios-mock-adapter", "counterfact", "msw", "nock", "superagent"]
 }
