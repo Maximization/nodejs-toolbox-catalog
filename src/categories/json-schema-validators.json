@@ -8,6 +8,7 @@
     "djv",
     "is-my-json-valid",
     "json-schema-library",
-    "jsonschema"
+    "jsonschema",
+    "joi"
   ]
 }
