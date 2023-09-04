@@ -1,5 +1,5 @@
 {
   "name": "Object Schema Validators",
   "description": "Simple and intuitive validation with object schemas",
-  "packages": ["joi", "valibot", "yup", "zod"]
+  "packages": ["joi", "valibot", "validator", "yup", "zod"]
 }
