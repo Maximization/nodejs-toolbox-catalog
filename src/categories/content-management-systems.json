@@ -1,0 +1,13 @@
+{
+  "name": "Content Management Systems",
+  "description": "Create and manage content seamlessly using Node.js-based CMS solutions",
+  "packages": [
+    "@keystone-6/core",
+    "@strapi/strapi",
+    "@tinacms/cli",
+    "decap-cms-app",
+    "directus",
+    "ghost",
+    "payload"
+  ]
+}
