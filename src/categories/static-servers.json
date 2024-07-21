@@ -1,5 +1,5 @@
 {
   "name": "Static Servers",
   "description": "Serve a statically generated site on localhost",
-  "packages": ["http-server", "live-server", "serve", "sirv-cli", "anywhere"]
+  "packages": ["anywhere", "http-server", "live-server", "serve", "sirv-cli"]
 }
