@@ -5,6 +5,7 @@
     "drizzle-orm",
     "mikro-orm",
     "objection",
+    "orange-orm",
     "prisma",
     "sequelize",
     "typeorm"
