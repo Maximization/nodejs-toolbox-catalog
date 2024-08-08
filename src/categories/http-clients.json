@@ -1,5 +1,13 @@
 {
   "name": "HTTP Clients",
   "description": "Send network requests and fetch data from external APIs",
-  "packages": ["axios", "got", "node-fetch", "request", "undici", "urllib", "wretch"]
+  "packages": [
+    "axios",
+    "got",
+    "node-fetch",
+    "request",
+    "undici",
+    "urllib",
+    "wretch"
+  ]
 }
