@@ -6,6 +6,7 @@
     "args",
     "cac",
     "commander",
+    "farjs-app",
     "gluegun",
     "meow",
     "minimist",
