@@ -5,8 +5,8 @@
     "@hapi/bell",
     "express-session",
     "grant",
-    "passport",
     "lucia",
-    "next-auth"
+    "next-auth",
+    "passport",
   ]
 }
