@@ -7,6 +7,6 @@
     "grant",
     "lucia",
     "next-auth",
-    "passport",
+    "passport"
   ]
 }
