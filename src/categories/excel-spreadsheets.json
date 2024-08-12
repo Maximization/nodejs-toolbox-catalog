@@ -1,5 +1,5 @@
 {
   "name": "Excel Spreadsheets",
   "description": "Parse and write excel spreadsheets in Node.js",
-  "packages": ["exceljs", "node-xlsx", "xlsx"]
+  "packages": ["exceljs", "node-xlsx", "officecrypto-tool", "xlsx"]
 }
