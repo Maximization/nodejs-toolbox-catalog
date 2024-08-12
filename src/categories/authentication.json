@@ -1,5 +1,12 @@
 {
   "name": "Authentication",
   "description": "Handle the authentication of users for web applications",
-  "packages": ["@hapi/bell", "express-session", "grant", "passport"]
+  "packages": [
+    "@hapi/bell",
+    "express-session",
+    "grant",
+    "lucia",
+    "next-auth",
+    "passport"
+  ]
 }
