@@ -8,6 +8,7 @@
     "decap-cms-app",
     "directus",
     "ghost",
-    "payload"
+    "payload",
+    "appwrite"
   ]
 }
