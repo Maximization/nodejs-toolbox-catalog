@@ -8,9 +8,9 @@
     "@loopback/core",
     "@nestjs/core",
     "@redwoodjs/core",
+    "@tsed/core",
     "egg",
     "meteor",
-    "sails",
-    "@tsed/core"
+    "sails"
   ]
 }
