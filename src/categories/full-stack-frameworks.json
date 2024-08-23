@@ -10,6 +10,7 @@
     "@redwoodjs/core",
     "egg",
     "meteor",
-    "sails"
+    "sails",
+    "@tsed/core"
   ]
 }
