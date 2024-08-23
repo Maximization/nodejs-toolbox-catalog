@@ -5,10 +5,10 @@
     "@keystone-6/core",
     "@strapi/strapi",
     "@tinacms/cli",
+    "appwrite",
     "decap-cms-app",
     "directus",
     "ghost",
-    "payload",
-    "appwrite"
+    "payload"
   ]
 }
