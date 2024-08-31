@@ -2,11 +2,11 @@
   "name": "QR Code Generation",
   "description": "Programatically generate QR codes in Node.js",
   "packages": [
-    "@shortcm/qr-image",
     "headless-qr",
     "qr-image",
     "qrcode",
     "qrcode-generator",
-    "qrcode-terminal"
+    "qrcode-terminal",
+    "qreator"
   ]
 }
