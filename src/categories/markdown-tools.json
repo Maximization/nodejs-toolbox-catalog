@@ -1,0 +1,5 @@
+{
+  "name": "Markdown Tools",
+  "description": "Parse & stringify markdown syntax to/from HTML",
+  "packages": ["markdown-it", "marked", "micromark", "remark"]
+}
