@@ -1,6 +1,6 @@
 {
   "name": "nodejs-toolbox-catalog",
-  "version": "1.16.6",
+  "version": "1.17.0",
   "description": "Catalog of categories and packages for Node.js Toolbox",
   "private": false,
   "type": "module",
