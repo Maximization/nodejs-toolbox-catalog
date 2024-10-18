@@ -1,0 +1,5 @@
+{
+  "name": "Geospatial Analysis",
+  "description": "Perform spatial calculations and analyze geographic data",
+  "packages": ["@turf/turf", "geolib"]
+}
