@@ -3,6 +3,7 @@
   "description": "Handle the authentication of users for web applications",
   "packages": [
     "@hapi/bell",
+    "better-auth",
     "express-session",
     "grant",
     "lucia",
