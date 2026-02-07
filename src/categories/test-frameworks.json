@@ -1,5 +1,5 @@
 {
   "name": "Test Frameworks",
   "description": "Frameworks to help you write automated tests",
-  "packages": ["ava", "jasmine", "jest", "mocha", "qunit", "vitest"]
+  "packages": ["ava", "japa", "jasmine", "jest", "mocha", "qunit", "vitest"]
 }
