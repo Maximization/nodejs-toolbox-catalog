@@ -8,7 +8,7 @@
   "license": "MIT",
   "main": "index.js",
   "engines": {
-    "node": "22.x"
+    "node": "24.x"
   },
   "repository": {
     "type": "git",
