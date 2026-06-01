@@ -3,6 +3,7 @@
   "description": "Map SQL database tables to JavaScript objects",
   "packages": [
     "drizzle-orm",
+    "joist-orm",
     "mikro-orm",
     "objection",
     "orange-orm",
