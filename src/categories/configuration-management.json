@@ -2,6 +2,7 @@
   "name": "Configuration Management",
   "description": "Load environment variables and configure your applications",
   "packages": [
+    "@t3-oss/t3-env",
     "config",
     "convict",
     "dmno",
@@ -10,7 +11,6 @@
     "envalid",
     "nconf",
     "rc",
-    "t3-env",
     "znv"
   ]
 }
