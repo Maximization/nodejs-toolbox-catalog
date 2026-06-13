@@ -1,5 +1,5 @@
 {
   "name": "Configuration Management",
   "description": "Load environment variables and configure your applications",
-  "packages": ["config", "convict", "dotenv", "env-schema", "nconf", "rc"]
+  "packages": ["config", "convict", "dmno", "dotenv", "env-schema", "envalid", "nconf", "rc", "t3-env", "znv"]
 }
