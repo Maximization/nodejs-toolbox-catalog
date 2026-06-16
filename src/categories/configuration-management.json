@@ -5,12 +5,11 @@
     "@t3-oss/env-core",
     "config",
     "convict",
-    "dmno",
     "dotenv",
     "env-schema",
     "envalid",
     "nconf",
     "rc",
-    "znv"
+    "varlock"
   ]
 }
