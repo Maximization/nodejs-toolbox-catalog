@@ -4,7 +4,6 @@
   "packages": [
     "@playwright/test",
     "cypress",
-    "nightmare",
     "nightwatch",
     "puppeteer",
     "selenium-webdriver",
